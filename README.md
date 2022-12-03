@@ -23,21 +23,27 @@ Parameters like the center wavelength, the bandwidth, resolution of the spectrom
 
 # These are my codes and I will be happy to develop them by somebody to write a paper. This idea can be about applying a novel deconvolution method, applying scattering and ....
  
- # OCTsignal.m: Here is the main part of the simulation. You can change default parameters with your arbitrary parameters.
+ # OCTsignal.m:
+ Here is the main part of the simulation. You can change default parameters with your arbitrary parameters.
 
 
-# OCTsimulator.m: It is the main function and here we will tag every feature of every beam. after that by using these tags, we can select beams with depth information ( to create an interference spectrum)
+# OCTsimulator.m: 
+It is the main function and here we will tag every feature of every beam. after that by using these tags, we can select beams with depth information ( to create an interference spectrum)
 
-# tracer.m: This function can follow up the beams between different layers
-
-
-# Propagate_ASM.m: It is a function for propagating the beam in a layer.
-
-
-# rforward.m and tforward.m: They are some functions for calculating fresnel equations.
+# tracer.m: 
+This function can follow up the beams between different layers
 
 
-# OCT_Analyse.m: It is my analyzing code. I have a separate repository to explain this. please study that.
+# Propagate_ASM.m: 
+It is a function for propagating the beam in a layer.
+
+
+# rforward.m and tforward.m: 
+They are some functions for calculating fresnel equations.
+
+
+# OCT_Analyse.m: 
+It is my analyzing code. I have a separate repository to explain this. please study that.
 
 
 # Feel free to contact me.
