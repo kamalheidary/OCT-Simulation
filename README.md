@@ -47,7 +47,7 @@ It is my analyzing code. I have a separate repository to explain this. please st
 
 
 # Feel free to contact me.
-# kamal.heidary@gmail.com
+# kamal.heidary96@gmail.com
 
 # King regards,
 
